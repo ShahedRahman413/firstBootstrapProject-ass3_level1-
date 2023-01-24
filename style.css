@@ -6,6 +6,7 @@ body{
     background-image: url(images/banner.png);
     background-repeat: no-repeat;
     background-size: cover;
+    border-radius: 5px;
  
 }
 form{
