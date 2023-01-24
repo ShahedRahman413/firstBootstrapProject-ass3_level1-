@@ -1,0 +1,12 @@
+body{
+    font-family: 'EB Garamond', serif;
+    font-family: 'Open Sans', sans-serif;
+}
+.banner{
+    background-image: url(images/banner.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+form{
+    text-align: center;
+}
